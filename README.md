@@ -53,9 +53,9 @@ const About = () => (
 const Contact = () => (
   <div className="p-10 text-center">
     <h2 className="text-3xl font-bold">Contáctanos</h2>
-    <p className="mt-4">📍 Dirección: Calle Principal 123, Ciudad</p>
-    <p>📞 Teléfono: +123 456 7890</p>
-    <p>📧 Email: contacto@palaciodeseul.com</p>
+    <p className="mt-4">📍 Dirección: Calle campoamor 28 oviedo</p>
+    <p>📞 Teléfono: +34 633869888</p>
+    <p>📧 Email: palaciodeseul@gmail.com</p>
   </div>
 );
 
